@@ -1327,8 +1327,8 @@ header h1 {
   text-align: center;
   color:$white;
   font-size:3rem;
-  line-height:60%;
+  line-height:120%;
   text-shadow: 0px 1.5px 1.5px rgba(0, 0, 0, 0.4); 
-  
+
 
 }
