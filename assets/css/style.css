@@ -1299,4 +1299,4 @@ h3.tag-header {
 
 /* BOMAC */
 
-.post-content img { width:100%; }
+.post-content img { width:100% !important; }
