@@ -1301,7 +1301,8 @@ h3.tag-header {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Titillium Web', sans-serif;
-  font-weight: 600italic;
+  font-weight: 600;
+  font-style:italic;
 }
 
 body {
