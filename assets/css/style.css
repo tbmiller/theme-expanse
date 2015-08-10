@@ -1303,3 +1303,9 @@ h3.tag-header {
 .post-author, .user-avatar, .posts .item h3 { display:none;}
 
 .post {padding-top:20px;}
+
+header h1 {
+    display: block;
+    text-align: center;
+    width: 100%;
+}
