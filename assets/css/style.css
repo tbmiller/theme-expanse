@@ -1296,3 +1296,7 @@ h3.tag-header {
   line-height: 10pt;
   padding: 7px;
 }
+
+/* BOMAC */
+
+.post-content img { width:100%; }
