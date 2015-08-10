@@ -1300,3 +1300,6 @@ h3.tag-header {
 /* BOMAC */
 
 .post-content img { width:100% !important; }
+.post-author, .user-avatar, .posts .item h3 { display:none;}
+
+.post {padding-top:20px;}
